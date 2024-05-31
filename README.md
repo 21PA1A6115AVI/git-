@@ -1,2 +1,2 @@
 # git-
-In simple terms it is an weather predictor
+a webpage to access git commands
